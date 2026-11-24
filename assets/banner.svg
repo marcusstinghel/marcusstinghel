@@ -45,7 +45,7 @@
     <circle cx="42" cy="20" r="6" fill="#e0af68"/>
     <circle cx="62" cy="20" r="6" fill="#9ece6a"/>
     <g font-family="Consolas, 'Courier New', monospace" font-size="16">
-      <text x="22" y="66"><tspan fill="#bb9af7">public record</tspan><tspan fill="#7dcfff"> Dev</tspan><tspan fill="#c0caf5">(</tspan></text>
+      <text x="22" y="66"><tspan fill="#bb9af7">var</tspan><tspan fill="#c0caf5"> me = </tspan><tspan fill="#bb9af7">new</tspan><tspan fill="#7dcfff"> Dev</tspan><tspan fill="#c0caf5">(</tspan></text>
       <text x="44" y="94"><tspan fill="#9ece6a">"Marcus"</tspan><tspan fill="#c0caf5">,</tspan></text>
       <text x="44" y="122"><tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"C#"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">".NET"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Python"</tspan><tspan fill="#c0caf5">],</tspan></text>
       <text x="44" y="150"><tspan fill="#9ece6a">"Fullstack"</tspan><tspan fill="#c0caf5">);</tspan></text>
