@@ -47,7 +47,7 @@
     <g font-family="Consolas, 'Courier New', monospace" font-size="16">
       <text x="22" y="66"><tspan fill="#bb9af7">var</tspan><tspan fill="#c0caf5"> me = </tspan><tspan fill="#bb9af7">new</tspan><tspan fill="#7dcfff"> Dev</tspan><tspan fill="#c0caf5">(</tspan></text>
       <text x="44" y="94"><tspan fill="#9ece6a">"Marcus"</tspan><tspan fill="#c0caf5">,</tspan></text>
-      <text x="44" y="122"><tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"C#"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">".NET"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Python"</tspan><tspan fill="#c0caf5">],</tspan></text>
+      <text x="44" y="122"><tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"C#"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">".NET"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Python"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Vue"</tspan><tspan fill="#c0caf5">],</tspan></text>
       <text x="44" y="150"><tspan fill="#9ece6a">"Fullstack"</tspan><tspan fill="#c0caf5">);</tspan></text>
       <text x="22" y="176" fill="#565f89" font-size="14">// payments · integrations · AI agents</text>
     </g>
@@ -61,7 +61,7 @@
   <!-- title -->
   <g font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
     <text x="80" y="170" font-size="60" font-weight="700" fill="url(#title)">Hi, I'm Marcus</text>
-    <text x="82" y="218" font-size="26" fill="#c0caf5">Fullstack Developer · C#/.NET &amp; Python</text>
+    <text x="82" y="218" font-size="26" fill="#c0caf5">Fullstack Developer · C#/.NET, Python &amp; Vue</text>
     <text x="82" y="256" font-size="18" fill="#a9b1d6" fill-opacity="0.85">Payments · Integrations · Cross-platform apps · AI agents</text>
   </g>
 </svg>
