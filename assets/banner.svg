@@ -39,8 +39,8 @@
   </g>
 
   <!-- code window -->
-  <g transform="translate(760 95)">
-    <rect width="360" height="190" rx="12" fill="#16161e" fill-opacity="0.9" stroke="#7aa2f7" stroke-opacity="0.35"/>
+  <g transform="translate(740 95)">
+    <rect width="400" height="190" rx="12" fill="#16161e" fill-opacity="0.9" stroke="#7aa2f7" stroke-opacity="0.35"/>
     <circle cx="22" cy="20" r="6" fill="#f7768e"/>
     <circle cx="42" cy="20" r="6" fill="#e0af68"/>
     <circle cx="62" cy="20" r="6" fill="#9ece6a"/>
@@ -49,7 +49,7 @@
       <text x="44" y="94"><tspan fill="#9ece6a">"Marcus"</tspan><tspan fill="#c0caf5">,</tspan></text>
       <text x="44" y="122"><tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"C#"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">".NET"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Python"</tspan><tspan fill="#c0caf5">],</tspan></text>
       <text x="44" y="150"><tspan fill="#9ece6a">"Fullstack"</tspan><tspan fill="#c0caf5">);</tspan></text>
-      <text x="22" y="176" fill="#565f89">// payments · integrations · AI agents</text>
+      <text x="22" y="176" fill="#565f89" font-size="14">// payments · integrations · AI agents</text>
     </g>
     <rect x="200" y="137" width="9" height="17" fill="#c0caf5"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
