@@ -48,10 +48,6 @@ Each niche is a self-contained module that plugs into a Nuxt frontend and a Fast
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcusstinghel&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=16161e" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusstinghel&layout=compact&theme=tokyonight&hide_border=true&bg_color=16161e" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcusstinghel&theme=tokyonight&hide_border=true&background=16161e" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcusstinghel&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=16161e&card_width=420" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=marcusstinghel&theme=tokyonight&hide_border=true&background=16161e" alt="GitHub streak" />
 </p>
