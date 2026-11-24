@@ -8,6 +8,13 @@ Before that, I spent a few years on the Python side: AI agents integrated with L
 
 I'm normally doing things around APIs, integrations, payments, and AI agents.
 
+On the side, I'm building **[Nerdifica](https://github.com/nerdifica)**, a personal project: a multi-niche site of free online tools with a companion blog, in Portuguese, Spanish, and English. It runs on Nuxt and FastAPI, shipped with Docker, Nginx, and GitHub Actions. 🛠️
+
+Some things I've built in the open:
+
+* **[agent-utils-sdk](https://github.com/marcusstinghel/agent-utils-sdk)**: building blocks for message-driven AI agents (NATS JetStream, OpenAI, WhatsApp).
+* **[tictactoe-api](https://github.com/marcusstinghel/tictactoe-api)**: a Flask REST API with a PyTorch opponent that learns from finished games.
+
 You can find me on:
 
 * [LinkedIn](https://www.linkedin.com/in/marcusstinghel)
