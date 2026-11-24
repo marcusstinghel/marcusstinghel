@@ -1,8 +1,8 @@
 Hey! I'm **Marcus Stinghel**. 👋
 
-I'm a backend developer from Brazil 🇧🇷, working with **C#/.NET** and **Python**.
+I'm a fullstack developer from Brazil 🇧🇷, working with **C#/.NET** and **Python** across backend, frontend, and cross-platform apps.
 
-I currently build payment systems in .NET at Grupo Autoglass, talking directly to card terminals and running Pix through an in-house provider. 💳
+I currently build payment systems at Grupo Autoglass: a cross-platform .NET MAUI app and its .NET API, talking directly to card terminals and running Pix through an in-house provider. 💳
 
 Before that, I spent a few years on the Python side: AI agents integrated with LLMs, API SDKs, and RPA automations. 🤖
 
